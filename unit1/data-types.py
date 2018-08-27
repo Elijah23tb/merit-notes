@@ -20,6 +20,17 @@ multiline comment
 
 # *** DATA TYPE: FLOAT ***
 # TODO: A decimal number
+integer = 666
+print(integer)
+print(type(integer))
+
+decimal = 666.7
+print(decimal)
+print(type(decimal))
+
+float = 666.6
+print(float)
+print(type(float))
 
 
 # *** DATA TYPE: STRING ***
@@ -32,6 +43,8 @@ multiline comment
 # TODO: Cast float to int
 
 # TODO: Cast int to string
+number = 666
+print("the number is " + str(number))
 
 # TODO: Cast number string to int
 
